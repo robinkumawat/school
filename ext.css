@@ -1,0 +1,49 @@
+.mainheader .navbar-expand-lg.navbar-light.bg-light {
+    background-color: orange !important;
+}
+.mainheader .navbar-light .navbar-brand {
+    color:white;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.mainheader .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+    font-weight: bolder;
+}
+.carousel-item img
+{
+    height: 600px!important;
+    object-fit: cover;
+}
+.card img{
+    border-radius: 50% !important;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+}
+.card-body {
+    text-align: center;
+}
+.row
+{
+    margin-top: 70px;
+    align-items: center;
+}
+.col.md-7 {
+    margin-top: 200px;
+}
+.col.md-5 img
+{
+    height: 500px;
+    width: 100%;
+}
+.heading
+{
+    font-size: 50px;
+    align-items: center;
+}
+.col.md-7 p
+{
+    font-size: 18px;
+} 
+
